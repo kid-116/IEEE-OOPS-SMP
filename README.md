@@ -8,6 +8,7 @@ This Summer Mentorship Program conducted under `IEEE NITK` by the mentors - `Ash
 - [Google Site](https://sites.google.com/d/1e3Id3ZJkwWskJAfjbZa-7KUGYwRv2ini/p/17aLsGM4hhMg4QnPcaJWSmHP5h02iMwKc/edit)
 - The classic game of [Pacman](https://github.com/kid-116/Pac-Man.git) implemented using OOPs in C++.
 - [OOPs - GFG](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/)
+- [Coursera OOPs](https://www.coursera.org/learn/cs-fundamentals-1)
 
 ## Contributing Guidelines
 ### Setting Up
